@@ -66,7 +66,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="most used languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-ys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="most used languages"  />
 </div>
 
 
